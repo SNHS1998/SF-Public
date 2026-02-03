@@ -1,0 +1,5 @@
+# Default reviewers for everything
+*       @devops-team @tech-leads
+
+# SF
+force-app/main/default/  @apex-reviewers
