@@ -13,7 +13,7 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const reviewers = ["narendra", "senior-dev2", "qa-lead"];
+            const reviewers = ["narendranari4-ux"];
 
             await github.rest.pulls.requestReviewers({
               owner: context.repo.owner,
